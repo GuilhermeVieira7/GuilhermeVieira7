@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently studying Python, MySQL and Golang.
 
 :outbox_tray: 2024 Goals: create a new project and find a new job.
 
