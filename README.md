@@ -1,12 +1,12 @@
-# 👋 Hello! I'm [Seu Nome]
+# 👋 Hello! I'm Guilherme Vieira
 
-I'm a tech enthusiast and student of **Análise e Desenvolvimento de Sistemas** at FADESA. I’m passionate about software development, cybersecurity, and building real-world solutions with technology.
+I'm a tech enthusiast and student of **Analysis and System Development** at FADESA. I’m passionate about software development, cybersecurity, and building real-world solutions with technology.
 
 ## 💡 About Me
 
 - 🎓 Currently learning: Cybersecurity, Networking, and Backend Development  
-- 👨‍💻 Working with: Python, Django, MySQL, HTML/CSS, JavaScript  
-- 🔒 Cybersecurity: Completed **Network Defense** by Cisco, currently studying **CCNA-1**  
+- 👨‍💻 Working with: Python, Django, MySQL, HTML/CSS, JavaScript, Linux. 
+- 🔒 Cybersecurity: Completed **Network Defense** by Cisco, Completede **Introduction to Cybersecurity** by Cisco, Completede **Network Technician Career Path** by Cisco, Completed **Networking Academy Learn-A-Thon 2025** by Cisco, currently studying **CCNA-1**  
 - 📍 Based in: Pará, Brazil  
 - 🛠️ Tools: VSCode, Git, Linux (Debian VM), DBeaver, Lucidchart
 
