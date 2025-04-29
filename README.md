@@ -40,7 +40,7 @@ I'm a tech enthusiast and student of **Análise e Desenvolvimento de Sistemas** 
 ## 📫 How to reach me
 
 - 📧 Email: [guilhermevieira3356@gmail.com]  
-- 💼 LinkedIn: [](https://www.linkedin.com/in/guilherme-vieira-4b205b20b/)  
+- 💼 LinkedIn:(https://www.linkedin.com/in/guilherme-vieira-4b205b20b/)
 - 🌐 Portfolio: Coming soon!
 
 ---
