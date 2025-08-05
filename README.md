@@ -6,7 +6,7 @@ I'm a tech enthusiast and student of **Analysis and System Development** at FADE
 
 - 🎓 Currently learning: Cybersecurity, Networking, and Backend Development  
 - 👨‍💻 Working with: Python, Django, MySQL, HTML/CSS, JavaScript, Linux. 
-- 🔒 Cybersecurity: Completed **Network Defense** by Cisco, Completede **Introduction to Cybersecurity** by Cisco, Completede **Network Technician Career Path** by Cisco, Completed **Networking Academy Learn-A-Thon 2025** by Cisco, currently studying **CCNA-1**  
+- 🔒 Cybersecurity: Completed **Network Defense** by Cisco, Completede **Introduction to Cybersecurity** by Cisco, Completede **Network Technician Career Path** by Cisco, Completed **Networking Academy Learn-A-Thon 2025** by Cisco, currently studying **CCNA-2**  
 - 📍 Based in: Pará, Brazil  
 - 🛠️ Tools: VSCode, Git, Linux (Debian VM), DBeaver, Lucidchart
 
@@ -27,7 +27,7 @@ I'm a tech enthusiast and student of **Analysis and System Development** at FADE
 
 - 🟢 **Intermediate**: Python, HTML/CSS, MySQL  
 - 🟡 **Basic**: JavaScript, Git, Linux  
-- 🔵 **Learning**: Networking (CCNA-1), Cybersecurity, Bash scripting
+- 🔵 **Learning**: Networking (CCNA-2), Cybersecurity, Bash scripting
 
 ## 📈 Goals for 2025
 
